@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "gladeshiftsmp.aternos.me",
+    "port": 59544,
     "version": "1.20.1",
     "try-creative": false
   },
